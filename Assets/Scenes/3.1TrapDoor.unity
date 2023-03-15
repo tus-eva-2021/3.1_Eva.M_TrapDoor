@@ -272,6 +272,26 @@ PolygonCollider2D:
       - {x: 1.4, y: -2.3799999}
       - {x: 1.48, y: -2.28}
       - {x: 1.5, y: -2.1299999}
+--- !u!95 &227743287
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 227743278}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 3e16a94117a466b42afcd61972b5164f, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &263648604 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 339598763585056380, guid: a77a8e95301d69f47a72ae3b13dfa9f0, type: 3}
